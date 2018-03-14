@@ -12,11 +12,16 @@ I would recommend diving into a front-end framework to expand your ability and g
 
 This might seem like a giant leap at first, but focus on building this web app piece by piece. Create the app in the following order;
 
-  1 - Template data on the page from a generic API request
-  2- Add a search bar, which makes a separate query to a database on request
-  3- add favourite functionality which allows you to favourite a card
+  1 - Template data on the page from a generic API request.
+	
+  2- Add a search bar, which makes a separate query to a database on request.
+	
+  3- add favourite functionality which allows you to favourite a card.
+	
   4- create a separate route (using react router) which allows you to see all the beers you’ve favourited in the session.
 
 
 Solving these problems one step at a time will help you feel less overwhelmed and more like you’re heading in a specific direction. Lastly, I find it best to eliminate styling from the equation when developing web apps and using a CSS framework. I chose to use Bulma for my example, but there are many options out there for you to explore!
   
+
+https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178
